@@ -1,0 +1,9 @@
+Building CouchCushion
+
+See doc/readme-qt.rst for instructions on building couchcushion-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CouchCushion.
+
+See doc/build-*.txt for instructions on building couchcushion,
+the intended-for-services, no-graphical-interface, reference
+implementation of CouchCushion.
